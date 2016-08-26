@@ -137,6 +137,8 @@ root@myserver:/tmp# echo $?
 0
 ```
 
+![Jenkins Integration](static/jenkins.jpg  "Jenkins Integration")
+
 # Credits
 
 nodejs-security-scanner image uses:
