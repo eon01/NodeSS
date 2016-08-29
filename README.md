@@ -1,4 +1,4 @@
-# nodejs-security-scanner
+# nodeSS : Node.js Security Scanner
 
 This container will scan your Nodejs code for dependency vulnerabilities usinf nsp, print the result and exits.
 You can find the container on Docker Hub : https://hub.docker.com/r/eon01/nodejs-security-scanner/
