@@ -3,6 +3,8 @@
 This container will scan your Nodejs code for dependency vulnerabilities usinf nsp, print the result and exits.
 You can find the container on Docker Hub : https://hub.docker.com/r/eon01/nodejs-security-scanner/
 
+![](static/logo.png  "")
+
 # How To
 
 Download your Node.js code to a folder and execute the docker container within the source code folder:
