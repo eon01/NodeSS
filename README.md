@@ -3,7 +3,12 @@
 This container will scan your Nodejs code for dependency vulnerabilities usinf nsp, print the result and exits.
 You can find the container on Docker Hub : https://hub.docker.com/r/eon01/nodejs-security-scanner/
 
-<div style="text-align:center"> ![](static/logo.png  "") </div>
+
+
+<p align="center">
+  <img src="static/logo.png" />
+</p>
+
 
 # How To
 
