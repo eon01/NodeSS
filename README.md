@@ -113,6 +113,12 @@ Status: Downloaded newer image for eon01/nodejs-security-scanner:1.0
 ```
 
 
+# Getting A JSON Output
+
+```
+docker run -it --rm  --name nsp-security-check -v "$PWD":/usr/src/app -e OUTPUT='json'  eon01/nodejs-security-scanner:1.0
+```
+
 # Integrating A Security Test In Your Jenkins CI
 
 You can easily integrate this into your Jenkins CI pipeline. 
